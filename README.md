@@ -14,8 +14,8 @@ Recording Speech:
   * Practice by recording user's voice ; playback
   * Audio and visual
   * AI can detect:
-        * speaker volume
-        * speaking rate
+        - speaker volume
+        - speaking rate
     to give feedback to users to aid user speech
     
 Metronome Beats:
