@@ -34,8 +34,9 @@ to give feedback to users to aid user speech
 #### Virtual Speech:
   * uses VR headset to present to an audience
 
-#### Polling:
-  * Give users a chance to have an interactive audience participation
+#### Interactive:
+Give users a chance to have an interactive audience participation
   * Could be provided to professors to aid in grading and recording student's speech if needed to go back. 
-  
+  * Team collaboration
+  * Polling: asking audience for answers (kinda of like a iclicker)
   
