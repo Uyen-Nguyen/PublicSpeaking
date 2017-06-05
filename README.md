@@ -23,9 +23,9 @@ to give feedback to users to aid user speech
   * "tele-prompts" text into audible speechs so that users can follow
 
 #### Tips
-  * Can provide blogs or videos that are related to:
-        * user topic
-        * tips how to make present
+Can provide blogs or videos that are related to:
+  * user topic
+  * tips how to make present
         
 #### Timer/Countdowns
 
@@ -36,13 +36,16 @@ MAYBE WE CAN CHOOSE SOMETHING MODERN
   * white, grey, black. & some light color?
   * bold and white?
 HERE ARE SOME GOOD LINKS TO HELP INSPIRE YOU. (with the names of the schemes i like from the link below it)
+
 http://blog.visme.co/website-color-schemes/
-  * bold: 
-       Audacious and Vibrant
-       Bright Pink and Pastels
-  * modern: 
-       Lively and Inviting
-       Close to Nature 
+** bold: **
+   * Audacious and Vibrant
+   * Bright Pink and Pastels
+
+** modern: **
+   * Lively and Inviting
+   * Close to Nature 
+   
 https://www.awwwards.com/sites/l-avenir-dental-clinic
 https://www.awwwards.com/sites/qed-group  
 
@@ -51,6 +54,7 @@ https://www.awwwards.com/sites/qed-group
 
 #### Link to prototype
 (Keep in mind that I haven't either started or finished the prototype. Some of the pages are just given to me and when started this project on the website.)
+
 https://marvelapp.com/project/2019307/
 
 
