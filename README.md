@@ -38,6 +38,7 @@ MAYBE WE CAN CHOOSE SOMETHING MODERN
 HERE ARE SOME GOOD LINKS TO HELP INSPIRE YOU. (with the names of the schemes i like from the link below it)
 
 http://blog.visme.co/website-color-schemes/
+
 ** bold: **
    * Audacious and Vibrant
    * Bright Pink and Pastels
