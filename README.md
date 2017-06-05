@@ -29,8 +29,33 @@ to give feedback to users to aid user speech
         
 #### Timer/Countdowns
 
+## UI of APP
+#### Color Scheme
+WUZ GUUD TOMMY, WANNA HELP ME CHOOSE A COLOR SCHEME?
+MAYBE WE CAN CHOOSE SOMETHING MODERN 
+  * white, grey, black. & some light color?
+  * bold and white?
+HERE ARE SOME GOOD LINKS TO HELP INSPIRE YOU. (with the names of the schemes i like from the link below it)
+http://blog.visme.co/website-color-schemes/
+  * bold: 
+       Audacious and Vibrant
+       Bright Pink and Pastels
+  * modern: 
+       Lively and Inviting
+       Close to Nature 
+https://www.awwwards.com/sites/l-avenir-dental-clinic
+https://www.awwwards.com/sites/qed-group  
 
-## Future Plans
+#### Fonts
+
+
+#### Link to prototype
+(Keep in mind that I haven't either started or finished the prototype. Some of the pages are just given to me and when started this project on the website.)
+https://marvelapp.com/project/2019307/
+
+
+
+# Future Plans
 #### Virtual Speech:
   * uses VR headset to present to an audience
 
